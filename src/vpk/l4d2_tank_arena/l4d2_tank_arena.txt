@@ -1,0 +1,54 @@
+Tank Arena v1.3, by obez - 2016-01-18
+
+Changelog ---------------------------------------------------------------------
+  1.3 (2016-01-18)
+    - Fixed an issue near the teleport button where players could get 
+      incapacitated when jumping near the exit to the red/blue corner
+      (The player entity would clip through the roof into the water trigger_hurt)
+      Thanks to voltex & the_extreme10
+    - Added a few molotovs
+
+Info --------------------------------------------------------------------------
+
+Another Tank Map, in a smaller arena.
+
+Enter the arena and fight tanks for 10 minutes.
+
+You will then have to find Moustachio and press the button under him to 
+activate 1 out of 4 possible rescues
+
+Rescues are located below the coloured walls.
+
+A button under the tower can teleport dead players to the top of the tower.
+
+Have fun!
+
+Known Issues / Bugs -----------------------------------------------------------
+  - Dead players don't teleport in Realism mode
+
+Previous updates --------------------------------------------------------------
+  1.2 (2015-12-31)
+    - Added a drop near the tower
+    - Changed the ladders to the underground near the new drop
+    - Added defibrilators and a few other items
+    - Fixed a few nav issues
+    - Fixed a few minor texture issues
+
+  1.1 (2014-09-07)
+    - Changed the ladders in the corners to avoid exploiting (thanks GoldSaint)
+    - Moved and shortened the outdoor ladder near the tower
+    - Added 4 defibs at start
+    - Added adrenalines on the tower's roof
+    - Fixed the blue rescue not triggering when a player was incapacitated
+    - Few other minor things
+
+  1.0 (2013-08-26)
+    - Initial release
+
+Plans -------------------------------------------------------------------------
+
+Misc notes --------------------------------------------------------------------
+
+Thanks to ---------------------------------------------------------------------
+  - Feedback and test sessions: Rooky Moon, Mister, HighBoulet, ColD_ReaVeR, 
+    Balledur, GoldSaint & friends, voltex & the_extreme10

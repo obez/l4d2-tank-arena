@@ -1,0 +1,31 @@
+"mission"
+{
+  "Name"          "TankArena"
+  "Version"       "4"
+  "Author"        "obez"
+  "Website"       "http://steamcommunity.com/sharedfiles/filedetails/?id=306083806"
+  "DisplayTitle"  "Tank Arena v1.3"
+  "Description"   "The Tank Arena"
+  "survivor_set"  "1"
+  "OuttroImage"   "vgui\OutroTitle_l4d2_tank_arena"
+
+  "poster"
+  {
+    "posterImage"            "LoadingScreen_l4d2_tank_arena"
+    "posterImage_widescreen" "LoadingScreen_l4d2_tank_arena_wide"
+    "fullscreen"             "1"
+  }
+
+  "modes"
+  {
+    "coop"
+    {
+      "1"
+      {
+        "Map"         "l4d2_tank_arena"
+        "DisplayName" "The Arena"
+        "Image"       "maps/l4d2_tank_arena"
+      }
+    }
+  }
+}

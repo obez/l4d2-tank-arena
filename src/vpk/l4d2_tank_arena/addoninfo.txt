@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+     addonSteamAppID        550
+     addontitle             "Tank Arena"
+     addonversion           1.3
+     addontagline           "Tank Arena"
+     addonauthor            "obez"
+     addonauthorSteamID     "STEAM_0:1:22154623"
+     addonContent_Campaign  1
+     addonContent_Map       1
+     addonURL0              "http://steamcommunity.com/sharedfiles/filedetails/?id=306083806"
+     addonDescription       "Tank Arena"
+     addonSteamGroupName    "TankPlaygrnd"
+}
