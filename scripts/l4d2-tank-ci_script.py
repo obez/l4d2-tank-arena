@@ -24,7 +24,6 @@ maps = [
 
 TODAY = datetime.datetime.now().strftime('%Y-%m-%d_%H%M')
 WORK_PATH = '' # Working directory, typically this repository (ex: c:\\dev\\maps\\l4d2-tank-arena\\)
-MAP_EXT = '.rar'
 SRC_PATH = WORK_PATH + 'src\\'
 VPK_NAME = 'l4d2_tank_arena'
 VPK_PATH = SRC_PATH + 'vpk\\' + VPK_NAME + '\\'
