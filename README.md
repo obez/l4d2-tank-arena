@@ -28,6 +28,6 @@ You can then share the `ftp` subdirectory with your teammates/testers through ft
 
 The `.bsp` file is not included in the `vpk\l4d2_tank_arena\maps` directory.
 
-You will need to compile it first and copy it to this directory before packaking the `.vpk`.
+You will need to compile it first and copy it to this directory before packaging the `.vpk`.
 
 This is automatically done by the python script.
