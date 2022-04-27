@@ -35,7 +35,7 @@ GAME_ADDONS_DIR = GAME_DIR + 'addons\\'
 GAME_MAPS_DIR = GAME_DIR + 'maps\\'
 GAME_EXE = L4D2_DIR + 'left4dead2.exe'
 FTP_DIR = WORK_PATH + 'ftp\\'
-ARCH_DIR = FTP_DIR + 'archive\\'
+ARCH_DIR = FTP_DIR + 'archives\\'
 RAR_BIN = '' # Path to WinRAR binary/exe (ex: c:\\Program Files\\WinRAR\\Rar.exe)
 
 # FUNCTIONS -------------------------------------------------------------------
